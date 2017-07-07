@@ -14,7 +14,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://dpdunn10.github.io" # the base hostname & protocol for your site
 social:
   email: mailto:dpdunn10@gmail.com
-  linkedin-square: https://linkedin.com/in/daniel-dunn-116b7a9b/
+  linkedin-square: https://linkedin.com/in/daniel-dunn/
   github: https://github.com/dpdunn10
   twitter: https://twitter.com/doublesd95
   #facebook-official: http://facebook.com/<username>
